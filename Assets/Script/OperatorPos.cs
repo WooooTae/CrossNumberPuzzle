@@ -8,7 +8,7 @@ public enum OperatorDirection
     Vertical 
 }
 
-public class OperatorPos : MonoBehaviour
+public class OperatorPos
 {
     public Vector2Int startPos;
     public OperatorDirection direction;
